@@ -16,6 +16,7 @@ while more == "y":
     email = input("Enter the address: ")
     addresses.append(email)
 #Asks user to input another address
+#If the user has another email address, they enter it, if not the script ends and prints
     more = input("Do you have another address(y/n)? ")
     while more != "y":
         if more == "n":
