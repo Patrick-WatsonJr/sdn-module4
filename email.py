@@ -5,7 +5,7 @@ a list and prints the list.
 
 """
 
-
+#curly brackets indicate this is a start of dictionary
 addresses = []
 
 #asks user if they have an email address to enter, user must input yes or no
